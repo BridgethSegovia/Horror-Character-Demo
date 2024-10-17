@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "name": "Annie Wilkes",
+        "description": "Una enfermera cuya obsesión por la obra de un autor la convierte en una figura peligrosa, caracterizada por su devoción extrema a la serie 'Misery'.",
+        "movie": "Misery",
+        "characterType": "Asesina en serie",
+        "image": "annie_wilkes",
+        "quote": "I'm your number one fan!"
+    },
+    {
+        "id": 2,
+        "name": "Art the Clown",
+        "description": "Un payaso despiadado que persigue a sus víctimas con un enfoque perturbador y brutal, dejando un rastro de terror a su paso.",
+        "movie": "Terrifier",
+        "characterType": "Asesino en serie",
+        "image": "art_the_clown",
+        "quote": "..."
+    },
+    {
+        "id": 3,
+        "name": "Babadook",
+        "description": "Una entidad aterradora que acecha a una madre y su hijo, alimentándose de sus temores y convirtiéndose en una manifestación del trauma.",
+        "movie": "The Babadook",
+        "characterType": "Criatura sobrenatural",
+        "image": "babadook",
+        "quote": "If it's in a word, or it's in a look, you can't get rid of the Babadook."
+    },
+    {
+        "id": 4,
+        "name": "Billy the Puppet",
+        "description": "La marioneta emblemática de Jigsaw, que sirve como su voz y guía en la ejecución de mortales juegos psicológicos.",
+        "movie": "Saw",
+        "characterType": "Marioneta",
+        "image": "billy_the_puppet",
+        "quote": "I want to play a game."
+    },
+    {
+        "id": 5,
+        "name": "Bathsheba Sherman",
+        "description": "Una bruja malévola que atormenta a la familia Perron, convirtiéndose en el eje central de la investigación de los famosos demonólogos Ed y Lorraine Warren.",
+        "movie": "The Conjuring",
+        "characterType": "Bruja",
+        "image": "bathsheba_sherman",
+        "quote": "She made me do it."
+    },
+    {
+        "id": 6,
+        "name": "Candyman",
+        "description": "Un espíritu vengativo que toma forma cuando se pronuncia su nombre cinco veces frente a un espejo, desatando el terror entre sus invocadores.",
+        "movie": "Candyman",
+        "characterType": "Espíritu vengativo",
+        "image": "candyman",
+        "quote": "Be my victim."
+    },
+    {
+        "id": 7,
+        "name": "Carrie",
+        "description": "Una adolescente con poderes telequinéticos que desata su ira en su baile de graduación, lo que desencadena un caos inesperado y aterrador.",
+        "movie": "Carrie",
+        "characterType": "Adolescente poseída",
+        "image": "carrie",
+        "quote": "They're all gonna laugh at you!"
+    },
+    {
+        "id": 8,
+        "name": "Chucky",
+        "description": "Un muñeco poseído por el alma de un asesino en serie, empeñado en recuperar su humanidad a través de la transferencia a un cuerpo vivo.",
+        "movie": "Child's Play",
+        "characterType": "Muñeco poseído",
+        "image": "chucky",
+        "quote": "Hi, I'm Chucky, wanna play?"
+    },
+    {
+        "id": 9,
+        "name": "Dracula",
+        "description": "El icónico vampiro que busca la sangre de sus víctimas para mantener su inmortalidad, simbolizando el deseo eterno de la vida.",
+        "movie": "Dracula",
+        "characterType": "Vampiro",
+        "image": "dracula",
+        "quote": "I never drink... wine."
+    },
+    {
+        "id": 10,
+        "name": "The Boogeyman",
+        "description": "Una figura mítica que se alimenta del miedo infantil, representando las ansiedades y terrores de la niñez.",
+        "movie": "El Hombre del Saco",
+        "characterType": "Criatura mítica",
+        "image": "boogeyman",
+        "quote": "He's under your bed."
+    },
+    {
+        "id": 11,
+        "name": "The Creature from the Black Lagoon",
+        "description": "Un monstruo anfibio que emerge de las profundidades de un río remoto, desafiando la lógica y la realidad de su propia existencia.",
+        "movie": "Creature from the Black Lagoon",
+        "characterType": "Criatura acuática",
+        "image": "creature_black_lagoon",
+        "quote": ""
+    },
+    {
+        "id": 12,
+        "name": "Esther Coleman",
+        "description": "Una niña que aparenta ser dulce e inocente, pero cuya apariencia oculta un secreto oscuro y mortal.",
+        "movie": "Orphan",
+        "characterType": "Asesina en serie",
+        "image": "esther_coleman",
+        "quote": "I'm not who you think I am."
+    },
+    {
+        "id": 13,
+        "name": "Freddy Krueger",
+        "description": "Un asesino sobrenatural que ataca a sus víctimas en sus sueños, utilizando su guante de cuchillas como su arma más letal.",
+        "movie": "A Nightmare on Elm Street",
+        "characterType": "Asesino sobrenatural",
+        "image": "freddy_krueger",
+        "quote": "Welcome to my nightmare!"
+    },
+    {
+        "id": 14,
+        "name": "Frankenstein",
+        "description": "Un ser creado a partir de partes de cadáveres que lucha por encontrar su identidad y propósito en un mundo que lo rechaza.",
+        "movie": "Frankenstein",
+        "characterType": "Criatura creada",
+        "image": "frankenstein",
+        "quote": ""
+    },
+    {
+        "id": 15,
+        "name": "Ghostface",
+        "description": "Un asesino enmascarado que aterroriza a sus víctimas a través de llamadas telefónicas y acechos previos a los ataques mortales.",
+        "movie": "Scream",
+        "characterType": "Asesino en serie",
+        "image": "ghostface",
+        "quote": "Do you like scary movies?"
+    },
+    {
+        "id": 16,
+        "name": "Gabriel May",
+        "description": "Una entidad maligna que habita dentro de una persona, provocando caos y violencia a su alrededor.",
+        "movie": "Malignant",
+        "characterType": "Entidad maligna",
+        "image": "gabriel_may",
+        "quote": ""
+    },
+    {
+        "id": 17,
+        "name": "Hannibal Lecter",
+        "description": "Un psiquiatra caníbal poseedor de un intelecto brillante y una mente retorcida, que combina encanto con una notable crueldad.",
+        "movie": "The Silence of the Lambs",
+        "characterType": "Asesino en serie",
+        "image": "hannibal_lecter",
+        "quote": "I ate his liver with some fava beans and a nice Chianti."
+    },
+    {
+        "id": 18,
+        "name": "The Lipstick-Face Demon",
+        "description": "Una entidad demoníaca que acecha a un niño a través de sus sueños, buscando apoderarse de su cuerpo y espíritu.",
+        "movie": "Insidious",
+        "characterType": "Demonio",
+        "image": "lipstick_face_demon",
+        "quote": ""
+    },
+    {
+        "id": 19,
+        "name": "Jason Voorhees",
+        "description": "Un asesino implacable que, bajo su icónica máscara de hockey, aterroriza el campamento Crystal Lake con su violencia y brutalidad.",
+        "movie": "Friday the 13th",
+        "characterType": "Asesino en serie",
+        "image": "jason_voorhees",
+        "quote": ""
+    },
+    {
+        "id": 20,
+        "name": "Jigsaw",
+        "description": "Un asesino ingenioso y metódico que somete a sus víctimas a complejas pruebas morales y trampas mortales como parte de su retorcida filosofía sobre la vida.",
+        "movie": "Saw",
+        "characterType": "Asesino en serie",
+        "image": "jigsaw",
+        "quote": "Live or die, make your choice."
+    },
+    {
+        "id": 21,
+        "name": "Leatherface",
+        "description": "Un asesino brutal que utiliza una motosierra y una máscara hecha de piel humana, representando el horror de un mundo desolado y desquiciado.",
+        "movie": "The Texas Chain Saw Massacre",
+        "characterType": "Asesino en serie",
+        "image": "leatherface",
+        "quote": ""
+    },
+    {
+        "id": 22,
+        "name": "Michael Myers",
+        "description": "Un asesino enmascarado que acecha a sus víctimas con una frialdad implacable, infundiendo terror en su entorno.",
+        "movie": "Halloween",
+        "characterType": "Asesino en serie",
+        "image": "michael_myers",
+        "quote": ""
+    },
+    {
+        "id": 23,
+        "name": "Pennywise",
+        "description": "Un payaso demoníaco que se alimenta del miedo de los niños, regresando cada 27 años para sembrar el pánico en la comunidad de Derry.",
+        "movie": "It",
+        "characterType": "Demonio",
+        "image": "pennywise",
+        "quote": "We all float down here."
+    },
+    {
+        "id": 24,
+        "name": "Pazuzu",
+        "description": "El demonio que poseyó a Regan MacNeil, desencadenando un terror indescriptible en su familia y en los espíritus que intentan liberarla.",
+        "movie": "The Exorcist",
+        "characterType": "Demonio",
+        "image": "pazuzu",
+        "quote": ""
+    },
+    {
+        "id": 25,
+        "name": "Regan MacNeil",
+        "description": "Una niña atrapada en una horrorosa posesión demoníaca que desata el caos en su hogar y provoca la desesperación en quienes intentan ayudarla.",
+        "movie": "The Exorcist",
+        "characterType": "Poseída",
+        "image": "regan_macneil",
+        "quote": "What an excellent day for an exorcism."
+    },
+    {
+        "id": 26,
+        "name": "Samara Morgan",
+        "description": "Una niña con habilidades sobrenaturales que atormenta a quienes ven su cinta maldita, perpetuando un ciclo de terror y desesperación.",
+        "movie": "The Ring",
+        "characterType": "Espíritu vengativo",
+        "image": "samara_morgan",
+        "quote": ""
+    },
+    {
+        "id": 28,
+        "name": "The Creeper",
+        "description": "Una criatura que se despierta cada 23 años para alimentarse de partes humanas, utilizando sus presas para regenerarse y prolongar su existencia.",
+        "movie": "Jeepers Creepers",
+        "characterType": "Criatura sobrenatural",
+        "image": "the_creeper",
+        "quote": ""
+    },
+    {
+        "id": 29,
+        "name": "The Jester",
+        "description": "Un bufón enigmático que se manifiesta en la oscuridad, atormentando a sus víctimas con su presencia inquietante.",
+        "movie": "The Jester",
+        "characterType": "Entidad sobrenatural",
+        "image": "the_jester",
+        "quote": ""
+    }
+]

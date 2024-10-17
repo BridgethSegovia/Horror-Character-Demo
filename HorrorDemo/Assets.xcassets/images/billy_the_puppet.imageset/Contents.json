@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "billy_the_puppet.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

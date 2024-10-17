@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "lipstick_face_demon.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

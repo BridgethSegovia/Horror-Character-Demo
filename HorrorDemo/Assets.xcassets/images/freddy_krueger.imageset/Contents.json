@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "freddy_krueger.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

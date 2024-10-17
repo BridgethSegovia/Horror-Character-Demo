@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "michael_myers.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

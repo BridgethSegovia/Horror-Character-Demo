@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "creature_black_lagoon.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "art_the_clown.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
