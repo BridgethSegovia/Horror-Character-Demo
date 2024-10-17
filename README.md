@@ -16,11 +16,5 @@ HorrorDemo es una aplicación sencilla que permite a los usuarios explorar una c
 ## Interfaz de Usuario
 A continuación, se presentan algunas imágenes que ilustran la interfaz de usuario de la aplicación.
 
-### Pantalla Principal
-![ViewHome](https://github.com/user-attachments/assets/fa2a68ed-04c4-4fc2-8c02-69d0ce421cb8)
-
-### Detalles del Personaje
-![ViewCharacter](https://github.com/user-attachments/assets/d062bc53-0785-4548-ae6e-93eadb09dd2f)
-
 ## Vídeo Demo
 ![ViewAppDemo](https://github.com/user-attachments/assets/074671ea-2d6d-49a9-ab04-ec4f1913cb9a)
