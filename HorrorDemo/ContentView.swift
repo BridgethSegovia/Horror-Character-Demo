@@ -31,7 +31,7 @@ struct ContentView: View {
                     }
                 }
             }
-            .navigationTitle("Horror Characters")
+            .navigationTitle("Personajes de Terror")
             
         }
         .preferredColorScheme(.dark)

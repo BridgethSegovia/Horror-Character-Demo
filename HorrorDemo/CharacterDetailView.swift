@@ -17,9 +17,10 @@ struct CharacterDetailView: View {
             
             VStack(spacing: 25) {
                 Text(character.name)
-                    .font(.largeTitle)
+                    .font(.custom("Creepster-Regular", size: 50))
                     .fontWeight(.bold)
                     .foregroundColor(.white)
+                    .shadow(color: Color("quoteColor"), radius: 1.7, x: 0, y: 4 )
                     .padding(.top, 20)
                 
                 Text(character.characterType)

@@ -20,14 +20,14 @@ struct HomeView: View {
                     .edgesIgnoringSafeArea(.all)
                 
                 VStack {
-                    Text("Happy Halloween")
-                        .font(.largeTitle)
+                    Text("Horror Characters")
+                        .font(.custom("Creepster-Regular", size: 65))
                         .fontWeight(.bold)
                         .foregroundColor(Color("titleColor"))
-                        .shadow(color: Color("homeShadow"), radius: 1.5, x: 1, y: 3.2)
-                        .padding(.top, 30)
+                        .shadow(color: Color("homeShadow"), radius: 1.5, x: 2.4, y: 3.2)
+                        .padding(.top, 40)
+                        .multilineTextAlignment(.center)
                     
-                    Spacer()
                     Image("pumkin")
                         .resizable()
                         .scaledToFit()
@@ -39,9 +39,10 @@ struct HomeView: View {
                             Animation.easeInOut(duration: 3)
                                 .repeatForever(autoreverses: true)
                         )
+                        .padding(.top, 45)
                     
                     Spacer()
-                    Text("by Bridgeth_Segovia")
+                    Text("by Bridgeth Segovia")
                         .foregroundColor(.gray) // Color del texto
                         .font(.system(size: 12, weight: .regular, design: .default))
                         .padding()
